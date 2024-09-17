@@ -7,7 +7,7 @@ export function Experience(){
     return(
         <div className="experience">
         <SectionTitle  text='Experience'/>
-        <p>Graduando em Análise e Desenvolvimento de Sistemas, experiência com WebStandard( HTML, CSS, JavaScript), React, banco de dados Sql, Python para dados</p>
+        <p>Graduating in Software Analysis and Development, experience with WebStandard (HTML, CSS, JavaScript), React, MySQL, Python for Data Analysis</p>
         <div className="experience-time">
 
         </div>

@@ -1,8 +1,11 @@
-import { Buttons } from "./components/buttons/buttons";
+import Image from "next/image";
+import emailIico from './../../public/email-ico.svg';
 import { Experience } from "./components/experience/experience";
 import { Header } from "./components/header/header";
-import { Infos } from "./components/infos/infos";
+import { Info  } from "./components/informations/informations";
 import './styles/home.scss'
+import { SocialBtn } from "./components/social-btn/social-btns";
+import { EmailIcon } from "./components/icons/email-icon";
 
 
 export default function Home() {
@@ -10,8 +13,15 @@ export default function Home() {
       <main className="container">
         <Header/>
         <Experience/>
-        <Infos/>
-        <Buttons/>
+        <Info/>
+        <div className="buttons">
+            <SocialBtn/>
+            <a className="btn-primary" href="mailto:teste@gmail.com">
+              contact me
+              <EmailIcon/>
+            </a>
+          </div>
+        
       </main>
   );
 }

@@ -1,14 +1,49 @@
 .container{
+    
+    font-family: cursive;
     padding: 40px 32px;
     display: grid;
+    
     gap: 24px;
+    justify-content: center;
     grid-template-rows: repeat(4, auto);
     grid-template-areas: 
     'header'
     'btns'
     'experience'
     'infos';
+
+    .buttons{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        gap:24px;
+        grid-area: btns;
+        width: 100%;
+
+
+        .btn-primary{
+            background: linear-gradient(90deg, #25c410 2.62%, #360ead 93.38%);
+            border-radius: 24px;
+            width: 325px;
+            padding: 12px;
+            text-align: center;
+            color: var(--text-primary);
+            font-size: 20px;
+            line-height: 30px;
+            text-transform: uppercase;
+            border: none;
+            text-decoration: none;
+        
+            display: flex;
+            align-items: center;
+            gap: 20px;
+            justify-content: center;
+        }
+    }
 }
+
 
 @media (min-width: 780px){
     .container{
