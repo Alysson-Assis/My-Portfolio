@@ -14,8 +14,8 @@ export function Header(){
           <Image
             src={ImagePerfil}
             alt="Next.js logo"
-            width={300}
-            height={300}
+            width={250}
+            height={250}
             priority
         />
       </div>

@@ -19,13 +19,13 @@
     }
     span{
         color: var(--text-secundary);
-        font-size: 20px;
+        font-size: 16px;
         
     }
 
-    @media (max-width: 768px) {
+    @media (min-width: 768px) {
         span{
-            font-size: 16px;
+            font-size: 20px;
         }
     }
    
