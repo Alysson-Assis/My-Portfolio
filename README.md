@@ -1,36 +1,49 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🌐 **Meu Portfólio Responsivo**
 
-## Getting Started
+Este é o meu portfólio criado com **Next.js** e **SCSS**, completamente **responsivo**, adaptando-se perfeitamente a diferentes tamanhos de tela. Aqui, você pode conhecer mais sobre mim, minhas habilidades e experiências profissionais.
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### 🖼 **Header:**
+- **Cartoon**: Meu avatar em formato de cartoon, dando um toque divertido e personalizado.
+- **Mensagem de Boas-vindas**: "Oi, Eu sou o Alysson"
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### 🎯 **Objetivo**:
+- "Sou um desenvolvedor focado em criar experiências web modernas e eficientes, buscando colaborar em projetos inovadores e impactantes."
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+### 💼 **Experiências**:
+- **FreeLancer (2022 - 2024)**: Desenvolvedor Web
+  - Implementação de landing pages responsivas utilizando **Next.js,React**.
+  - Otimização de performance de aplicações front-end com **SCSS, CSS-MODULES**.
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### 💻 **Skills**:
+- **Front-end**: HTML5, CSS3, JavaScript, React.js, Next.js, SCSS, CSS-MODULES.
+- **Back-end**: Python, Node.js.
+- **Ferramentas**: Git, GitHub, VSCode.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+### 🌍 **Línguas**:
+- **Português**: Nativo
+- **Inglês**: Intermediário
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### 🎓 **Educação**:
+- **Análise e Desenvolvimento de Software** - Senac (Ago 2022 - Dez - 2024)
+- **Curso de Introdução à Ciência de Dados** - Dio (Concluído em 2024)
+
+---
+
+### 📱 **Social Mídia**:
+- [LinkedIn](https://www.linkedin.com/in/alysson-assis-santos/)
+- [Instagram](https://www.instagram.com/alyssonassis_ofc/)
+
+---
+
+### 📝 **Resumo**:
+Sou um desenvolvedor web apaixonado por tecnologia, sempre buscando melhorar minhas habilidades e aprender novas ferramentas. Tenho experiência na criação de aplicações responsivas, focando em performance e design moderno.
