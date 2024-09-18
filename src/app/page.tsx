@@ -1,13 +1,14 @@
-
+import Image from "next/image";
+import emailIico from './../../public/email-ico.svg';
 import { Experience } from "./components/experience/experience";
 import { Header } from "./components/header/header";
 import { Info  } from "./components/informations/informations";
 import './styles/home.scss'
 import { SocialBtn } from "./components/social-btn/social-btns";
 import { EmailIcon } from "./components/icons/email-icon";
-import { Resume } from "./components/resume/resume";
 
-declare module "*.pdf";
+
+
 
 export default function Home() {
   return (
@@ -15,7 +16,6 @@ export default function Home() {
         <Header/>
         <Experience/>
         <Info/>
-        <Resume/>
         <div className="buttons">
             <SocialBtn/>
             <a className="btn-primary" href="mailto:alyssonassissantos@gmail.com">
