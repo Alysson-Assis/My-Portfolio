@@ -1,5 +1,5 @@
 import Image from "next/image"
-import ImagePerfil from "./../../public/me.png"
+import ImagePerfil from "./../../public/me.jpg"
 
 import './header.scss'
 

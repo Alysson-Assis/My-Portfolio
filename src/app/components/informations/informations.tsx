@@ -1,6 +1,6 @@
 import Image from 'next/image'
-import bazilFlag from './../../../../public/🇧🇷.png'
-import euaFlag from './../../../../public/🇺🇸.png' 
+import bazilFlag from './../../../../public/🇧🇷.svg'
+import euaFlag from './../../../../public/🇺🇸.svg' 
 import { SectionTitle } from '../sectionTitle/section-title'
 import './information.scss'
 
