@@ -2,13 +2,11 @@
 
 Este é o meu portfólio criado com **Next.js** e **SCSS**, completamente **responsivo**, adaptando-se perfeitamente a diferentes tamanhos de tela. Aqui, você pode conhecer mais sobre mim, minhas habilidades e experiências profissionais.
 
----
 
 ### 🖼 **Header:**
 - **Cartoon**: Meu avatar em formato de cartoon, dando um toque divertido e personalizado.
-- **Mensagem de Boas-vindas**: "Olá! meu nome é Alysson"
+- **Mensagem de Boas-vindas**: "Oi, Eu sou o Alysson"
 
----
 
 ### 🎯 **Objetivo**:
 - "Sou um desenvolvedor focado em criar experiências web modernas e eficientes, buscando colaborar em projetos inovadores e impactantes."
@@ -16,7 +14,7 @@ Este é o meu portfólio criado com **Next.js** e **SCSS**, completamente **resp
 ---
 
 ### 💼 **Experiências**:
-- **FreeLance (2022 - 2024)**: Desenvolvedor Web
+- **FreeLancer (2022 - 2024)**: Desenvolvedor Web
   - Implementação de landing pages responsivas utilizando **Next.js,React**.
   - Otimização de performance de aplicações front-end com **SCSS, CSS-MODULES**.
 
