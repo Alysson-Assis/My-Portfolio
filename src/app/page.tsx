@@ -1,5 +1,3 @@
-import Image from "next/image";
-import emailIico from './../../public/email-ico.svg';
 import { Experience } from "./components/experience/experience";
 import { Header } from "./components/header/header";
 import { Info  } from "./components/informations/informations";
