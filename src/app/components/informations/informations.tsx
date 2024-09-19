@@ -1,6 +1,4 @@
 import Image from 'next/image'
-import bazilFlag from './../../../../public/🇧🇷.jpg'
-import euaFlag from './../../../../public/🇺🇸.jpg' 
 import { SectionTitle } from '../sectionTitle/section-title'
 import './information.scss'
 
@@ -10,20 +8,8 @@ export function Info(){
           <SectionTitle text='Languages'/>
           <div className="languages-info">
           
-            <span><Image
-            src={bazilFlag}
-            alt="brazilFlag"
-            width={20}
-            height={20}
-            priority
-        /> PT-BR - Native Speaker</span>
-            <span><Image
-            src={euaFlag}
-            alt="brazilFlag"
-            width={20}
-            height={20}
-            priority
-        /> EN - Intermediary</span>
+            <span>PT-BR - Native Speaker</span>
+            <span>EN - Intermediary</span>
           </div>
           <SectionTitle text='Education'/>
           <div className="educatinal-info">
